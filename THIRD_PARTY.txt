@@ -1,0 +1,12 @@
+OvozYoz tarkibidagi uchinchi tomon komponentlari va ularning litsenziyalari
+(dasturni tarqatganda ushbu fayl birga berilishi kerak)
+
+Vosk API va vosk-model-small-uz-0.22 — Alpha Cephei — Apache License 2.0
+NumPy — BSD 3-Clause
+python-sounddevice — MIT; PortAudio — MIT
+websocket-client — Apache License 2.0
+requests — Apache License 2.0
+Python — PSF License
+PyInstaller — GPL 2.0, bootloader istisnosi bilan (yigʻilgan exe ni erkin tarqatishga ruxsat beradi)
+
+Litsenziyalarning toʻliq matnlari: har bir loyihaning rasmiy sahifasida.

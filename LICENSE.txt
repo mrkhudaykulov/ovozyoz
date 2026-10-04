@@ -1,0 +1,13 @@
+OvozYoz — oʻzbekcha ovozli yozish yordamchisi
+Copyright © 2026 Xudaykulov Uchqun Yunusovich. Barcha huquqlar himoyalangan.
+
+Foydalanuvchiga ushbu dasturdan bepul foydalanish va uni oʻzgartirmagan holda,
+ushbu fayl bilan birga boshqalarga berish huquqi beriladi.
+
+Muallifning yozma roziligisiz quyidagilar taqiqlanadi:
+- dasturni sotish yoki pullik xizmat tarkibida tarqatish;
+- dastur kodini oʻzgartirish, uning asosida boshqa dastur yaratish;
+- muallif haqidagi maʼlumotni olib tashlash.
+
+Dastur "qanday boʻlsa shunday" taqdim etiladi, hech qanday kafolatsiz.
+Uchinchi tomon komponentlari oʻz litsenziyalari asosida beriladi (THIRD_PARTY.txt).

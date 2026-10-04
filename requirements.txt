@@ -1,0 +1,6 @@
+numpy
+sounddevice
+websocket-client
+requests
+vosk
+cryptography
