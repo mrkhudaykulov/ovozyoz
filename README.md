@@ -1,17 +1,17 @@
-# OvozYoz 0.7 — oʻzbekcha ovozli yozish
+# OvozYoz 0.8 — oʻzbekcha ovozli yozish
 
 Kursor turgan istalgan joyga (EDO xat oynasi, Word, brauzer) gapirganingizni yozadi.
 Sukut boʻyicha tekin va offline (Vosk), internet va API kalit kerak emas.
 
 ## Oʻrnatish (xodim uchun)
-`OvozYoz-Setup-0.7.exe` ni ishga tushiring → "Далее" → "Установить". Admin kerak emas, internet kerak emas.
+`OvozYoz-Setup-0.8.exe` ni ishga tushiring → "Далее" → "Установить". Admin kerak emas, internet kerak emas.
 Windows "компьютер защищён" desa: "Подробнее" → "Выполнить в любом случае"
 (dastur hali raqamli imzolanmagan).
 
 ## Oʻrnatuvchini yigʻish (dasturchi uchun)
 1. Python 3.11+ 64-bit — python.org, "Install for current user", "Add to PATH".
 2. Inno Setup 6.3+ — jrsoftware.org/isdl.php ("Install for me only" tanlansa admin kerak emas).
-3. `build.bat` → modelni oʻzi yuklab oladi va `Output\OvozYoz-Setup-0.7.exe` ni yaratadi.
+3. `build.bat` → modelni oʻzi yuklab oladi va `Output\OvozYoz-Setup-0.8.exe` ni yaratadi.
 
 ## Ishlatish
 - **F9** yoki 🎤 tugmasi (yoki ustida ~1 s turish) — yoqish/oʻchirish.
