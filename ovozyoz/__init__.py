@@ -1,6 +1,6 @@
 """OvozYoz — oʻzbekcha ovozli yozish yordamchisi."""
 APP = "OvozYoz"
-VERSION = "0.8"
+VERSION = "0.9"
 AUTHOR = "© 2026 Xudaykulov Uchqun Yunusovich"
 
 # Yangilanishlar: GitHub'dagi ochiq "relizlar" ombori (masalan "uchqun/OvozYoz-releases")
