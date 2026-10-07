@@ -51,6 +51,7 @@ class MicEngine:
 
     def listening(self):
         self.app.ui(lambda: self.app.set_state("listening"))
+        self.report("Gapiring…")
 
     def request_stop(self):
         self.app.ui(self.app.stop)
